@@ -1,0 +1,74 @@
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.exe
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.deps.json
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.runtimeconfig.json
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.dll
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.pdb
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Form1.resources
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Properties.Resources.resources
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.GenerateResource.cache
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.AssemblyInfo.cs
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.dll
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\refint\sawatracket.dll
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.pdb
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.genruntimeconfig.cache
+C:\Users\User\Downloads\projek pemvis\sawatracket\sawatracket\obj\Debug\net8.0-windows\ref\sawatracket.dll
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.exe
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.deps.json
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.runtimeconfig.json
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.dll
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.pdb
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.MENU.resources
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Properties.Resources.resources
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Resources.LOGIN.resources
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Resources.MOBIL.resources
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Resources.PESANAN.resources
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.GenerateResource.cache
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.AssemblyInfoInputs.cache
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.AssemblyInfo.cs
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.CoreCompileInputs.cache
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.dll
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\refint\sawatracket.dll
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.pdb
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.genruntimeconfig.cache
+D:\Attack in heart\Proyek Pemvis\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\ref\sawatracket.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.exe
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.deps.json
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.runtimeconfig.json
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\sawatracket.pdb
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.AssemblyReference.cache
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.MENU.resources
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Properties.Resources.resources
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Resources.LOGIN.resources
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Resources.MOBIL.resources
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.Resources.PESANAN.resources
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.GenerateResource.cache
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.AssemblyInfoInputs.cache
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.AssemblyInfo.cs
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.csproj.CoreCompileInputs.cache
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatrac.BECB5486.Up2Date
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\refint\sawatracket.dll
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.pdb
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\sawatracket.genruntimeconfig.cache
+C:\Users\WinX\Downloads\Sawatracket (1) (2)\Sewatracket\Sewatracket\sawatracket\obj\Debug\net8.0-windows\ref\sawatracket.dll
